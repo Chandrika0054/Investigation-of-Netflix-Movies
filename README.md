@@ -1,4 +1,4 @@
-# Investigation-of-Netflix-Movies - Netflix Movies EDA | 1990s Trend Analysis
+#Investigation-of-Netflix-Movies-EDA
 
 Performed exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade and answer the following questions:
 1. What was the most frequent movie duration in the 1990s?
