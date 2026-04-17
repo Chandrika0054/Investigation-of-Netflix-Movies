@@ -8,7 +8,9 @@ Problem-solving approach:
 1. What was the most frequent movie duration in the 1990s?
    
    1.1 Filtering the data for movies released in the 1990s by :
+
    a. Subsetting the Data Frame "release_year";
+
    b. Filtering by Column Values for the movies in the years 1990 - 2000.
 
 1.2 Finding the most frequent movie duration by :
